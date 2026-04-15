@@ -1,30 +1,30 @@
 # 🚢 **Titanic-Survival-Prediction**
-========================================================================
 
-**📌 Overview**
+
+## **📌 Overview**
 
 Predicts whether a passenger survived using Machine Learning 🤖
 
----------------------------------------------------------------------------------------
-**🧠 Skills**
+----
+## **🧠 Skills**
 
 🧹 Data Cleaning | 📊 Visualization | ⚙️ Feature Engineering | 🤖 ML
 
 
 
-**🔄 Steps**
+## **🔄 Steps**
 
 📥 Data → 🧹 Cleaning → 📊 Visualization → ⚙️ Features → 🤖 Model → 📈 Evaluation
 
 
 
-**📊 Features**
+## **📊 Features**
 
 Age | Sex | Pclass | Fare | FamilySize
 
 
 
-**📈 Results**
+## **📈 Results**
 
 ✅ Accuracy: 82.93%
 
@@ -32,12 +32,12 @@ Age | Sex | Pclass | Fare | FamilySize
 
 
 
-**🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 
 
 
-**🚀 Conclusion**
+## **🚀 Conclusion**
 
 Simple and effective ML model for survival prediction 🚢
