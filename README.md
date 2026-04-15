@@ -1,6 +1,5 @@
 # 🚢 **Titanic-Survival-Prediction**
 
-
 ## **📌 Overview**
 
 Predicts whether a passenger survived using Machine Learning 🤖
