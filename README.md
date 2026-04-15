@@ -8,7 +8,6 @@ Predicts whether a passenger survived using Machine Learning 🤖
 
 🧹 Data Cleaning | 📊 Visualization | ⚙️ Feature Engineering | 🤖 ML
 
-
 ## **🔄 Steps**
 
 📥 Data → 🧹 Cleaning → 📊 Visualization → ⚙️ Features → 🤖 Model → 📈 Evaluation
@@ -26,8 +25,6 @@ Age | Sex | Pclass | Fare | FamilySize
 ## **🛠️ Tech Stack**
 
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
-
-
 
 ## **🚀 Conclusion**
 
