@@ -4,8 +4,7 @@
 
 Predicts whether a passenger survived using Machine Learning 🤖
 
-
-
+---------------------------------------------------------------------------------------
 **🧠 Skills**
 
 🧹 Data Cleaning | 📊 Visualization | ⚙️ Feature Engineering | 🤖 ML
