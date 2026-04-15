@@ -10,7 +10,6 @@ Predicts whether a passenger survived using Machine Learning 🤖
 🧹 Data Cleaning | 📊 Visualization | ⚙️ Feature Engineering | 🤖 ML
 
 
-
 ## **🔄 Steps**
 
 📥 Data → 🧹 Cleaning → 📊 Visualization → ⚙️ Features → 🤖 Model → 📈 Evaluation
@@ -19,15 +18,11 @@ Predicts whether a passenger survived using Machine Learning 🤖
 
 Age | Sex | Pclass | Fare | FamilySize
 
-
-
 ## **📈 Results**
 
 ✅ Accuracy: 82.93%
 
 📉 Confusion Matrix shows good predictions
-
-
 
 ## **🛠️ Tech Stack**
 
