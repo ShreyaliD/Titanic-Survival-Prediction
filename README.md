@@ -5,7 +5,6 @@
 
 Predicts whether a passenger survived using Machine Learning 🤖
 
-----
 ## **🧠 Skills**
 
 🧹 Data Cleaning | 📊 Visualization | ⚙️ Feature Engineering | 🤖 ML
@@ -15,8 +14,6 @@ Predicts whether a passenger survived using Machine Learning 🤖
 ## **🔄 Steps**
 
 📥 Data → 🧹 Cleaning → 📊 Visualization → ⚙️ Features → 🤖 Model → 📈 Evaluation
-
-
 
 ## **📊 Features**
 
